@@ -1,16 +1,16 @@
 body {
-    background-color: rgb(86, 164, 197);
+  background-color: rgb(86, 164, 197);
 }
 .mylogo {
-    width: 75px;
-    height: 52px;
+  width: 75px;
+  height: 52px;
 }
 
 .myPic {
-    width: 400px;
+  width: 400px;
 }
 
 .projImg {
-    width: 100%;
-    height: 250px;
+  width: 100%;
+  height: 250px;
 }
