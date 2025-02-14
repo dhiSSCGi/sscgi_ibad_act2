@@ -1,3 +1,6 @@
+body {
+    background-image: linear-gradient(to bottom right, rgb(168, 187, 244), rgb(42, 58, 76));
+}
 .mylogo {
     width: 75px;
     height: 52px;
